@@ -34,7 +34,7 @@ A full walkthrough of the platform and how it works end to end:
 
 ## ✨ Overview
 
-OFUQ (Arabic for *"horizon"*) solves a simple problem: a first-time founder has an idea but no clear path to execute it and no one to review their work. The platform gives them a **defined 4-stage roadmap**, where each stage is a concrete checklist plus a space to attach proof of work (a GitHub / Figma / Drive link). A mentor reviews each submission and either approves it or sends it back with a note.
+OFUQ (Arabic for *"horizon"*) solves a simple problem: a first-time founder has an idea but no clear path to execute it and no one to review their work. The platform gives them a **defined 4-stage roadmap**, where each stage is a concrete checklist plus a space to attach proof of work ( GitHub / Figma / Drive link). A mentor reviews each submission and either approves it or sends it back with a note.
 
 Stages are **gated** — a user can't move to the next stage until the mentor approves the previous one. That's what makes the journey genuinely structured rather than just a to-do list.
 
