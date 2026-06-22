@@ -20,7 +20,7 @@ A project-incubation platform that guides entrepreneurs from raw idea to launch 
 
 ## 🎥 Video Walkthrough
 
-A full walkthrough of the platform and how it works end to end:
+A full walkthrough of the platform and how it works end to end :
 
 <div align="center">
 
